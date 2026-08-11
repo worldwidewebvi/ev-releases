@@ -1,6 +1,6 @@
 {
-  "version": "0.8.6",
-  "sha256": "4e1ccaa14a55342ee6a29772fccf48df746e46a18597b1b9f1b368eedb53b9ab",
-  "url": "https://github.com/worldwidewebvi/ev-releases/releases/download/v0.8.6/jarvis-0.8.6.zip",
-  "notes": "An update can now finish itself. Restart to finish appears after installing."
+  "version": "0.8.7",
+  "sha256": "2800dd45abd0f4cafbc0c2c1c5c27abb3ac887ebfe438cb7a81c34cebddc3da2",
+  "url": "https://github.com/worldwidewebvi/ev-releases/releases/download/v0.8.7/jarvis-0.8.7.zip",
+  "notes": "Updates now install where the launcher looks. Anyone on 0.8.4-0.8.6 must reinstall once."
 }
