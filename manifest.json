@@ -1,6 +1,6 @@
 {
-  "version": "0.8.9",
-  "sha256": "19896b892886374224ac024e43c6c7a8313df9ab0b8aab50f281bc740f8b3e87",
-  "url": "https://github.com/worldwidewebvi/ev-releases/releases/download/v0.8.9/jarvis-0.8.9.zip",
-  "notes": "A half-finished update can no longer replace a working one."
+  "version": "0.8.10",
+  "sha256": "7047bedcfe39de819a6e22765bb72f6e054106966530c85687e0844e7516f837",
+  "url": "https://github.com/worldwidewebvi/ev-releases/releases/download/v0.8.10/jarvis-0.8.10.zip",
+  "notes": "Appointments get made when you ask for one, and replies are no longer cut in half at 'p. m.'"
 }
