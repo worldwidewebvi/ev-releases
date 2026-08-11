@@ -1,6 +1,6 @@
 {
-  "version": "0.8.7",
-  "sha256": "2800dd45abd0f4cafbc0c2c1c5c27abb3ac887ebfe438cb7a81c34cebddc3da2",
-  "url": "https://github.com/worldwidewebvi/ev-releases/releases/download/v0.8.7/jarvis-0.8.7.zip",
-  "notes": "Updates now install where the launcher looks. Anyone on 0.8.4-0.8.6 must reinstall once."
+  "version": "0.8.8",
+  "sha256": "17645038cff5a755dec1f431b3a4872b26b2bdabda94aa1aa1de811266a441fc",
+  "url": "https://github.com/worldwidewebvi/ev-releases/releases/download/v0.8.8/jarvis-0.8.8.zip",
+  "notes": "Voice actually works: the bundle was missing faster-whisper's VAD model."
 }
