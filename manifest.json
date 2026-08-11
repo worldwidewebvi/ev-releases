@@ -1,0 +1,6 @@
+{
+  "version": "0.5.4",
+  "sha256": "c898a334c10af11a02ab650c7c326ea8b748fe97f8be8f9bef5ec87f297d555b",
+  "url": "https://github.com/worldwidewebvi/ev-releases/releases/download/v0.5.4/jarvis-0.5.4.zip",
+  "notes": "Conversational work throughout, all of it structural. A false wake can no longer answer or write to memory."
+}
