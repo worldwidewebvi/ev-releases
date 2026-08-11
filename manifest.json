@@ -1,6 +1,6 @@
 {
-  "version": "0.8.4",
-  "sha256": "694a52b5f8b60f82ac4bcb1457de4c9a42ef9e060d8c6f5cc49fecba766d0e91",
-  "url": "https://github.com/worldwidewebvi/ev-releases/releases/download/v0.8.4/jarvis-0.8.4.zip",
-  "notes": "A day of conversational work, all of it structural. A false wake can no longer answer or write to memory."
+  "version": "0.8.5",
+  "sha256": "25139ce95a08221d3bb5c5cfa357f9d97d601c3bb0ab71e8f4b69d74c6e9357d",
+  "url": "https://github.com/worldwidewebvi/ev-releases/releases/download/v0.8.5/jarvis-0.8.5.zip",
+  "notes": "Voice commands work again on machines other than the developer's."
 }
