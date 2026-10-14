@@ -1,6 +1,6 @@
 {
-  "version": "0.8.10",
-  "sha256": "7047bedcfe39de819a6e22765bb72f6e054106966530c85687e0844e7516f837",
-  "url": "https://github.com/worldwidewebvi/ev-releases/releases/download/v0.8.10/jarvis-0.8.10.zip",
-  "notes": "Appointments get made when you ask for one, and replies are no longer cut in half at 'p. m.'"
+    "version":  "0.10.0",
+    "sha256":  "fd3b3dd913974a7fb0abb36eaec73bf2461ac76764c7e8617f80555617cd36fc",
+    "url":  "https://github.com/worldwidewebvi/ev-releases/releases/download/v0.10.0/jarvis-0.10.0.zip",
+    "notes":  "A new green look, a question at every launch, music while it\u0027s in focus, and it opens straight away."
 }
